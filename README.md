@@ -53,7 +53,7 @@
  
  <div align="center"><h3 align="center">Coding Languages:</h3>
 <img src="https://img.shields.io/badge/java-593D88?style=for-the-badge&logo=JAVA&logoColor=blue" align="center" alt="java">
-<img src="https://img.shields.io/badge/C-CA4245?style=for-the-badge&logo=C&logoColor=blue" align="center" alt="C">
+<img src="https://img.shields.io/badge/-CA4245?style=for-the-badge&logo=C&logoColor=white" align="center" alt="C">
 <img src="https://img.shields.io/badge/C++-%22EA4F26.svg?style=for-the-badge&logo=C++&logoColor=blue" align="center" alt="c++">
 
  </div>
@@ -102,7 +102,7 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/shiva167/github-readme-stats"><img alt="alih6051 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva167&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shiva167/github-readme-stats"><img alt="shiva167 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva167&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
    
 
