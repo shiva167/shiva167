@@ -4,7 +4,7 @@
 
 <!----------------------------------- Banner Section ------------------------------------>
 
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]([(https://shiva167.github.io/MyPortfoliowebsite.github.io/)])
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]([https://shiva167.github.io/MyPortfoliowebsite.github.io/])
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
@@ -27,31 +27,36 @@
 
 🔭 I’m currently preparing for placements!.<br>
 <br>🌱 I’m currently learning MERN Stack.<br>
-<br>📄 Check out my [Resume](https://1drv.ms/b/s!AgPbShu6dL-mg2mrhza2Kzvab5KF?e=LhOIUG)<br>
-<br>💻 Know more about me [Portfilio](https://alih6051.github.io/)<br>
-<br>💻 All of my projects are available at My [Github Repositories](https://github.com/alih6051?tab=repositories)<br>
-<br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
-<br>📫 How to reach me alih6051@gmail.com<br>
+<br>📄 Check out my [Resume](][ttps://drive.google.com/file/d/1Peef7PWULkrLVzB4pxHsymHso7gx-8bm/view?usp=drive_link])<br>
+<br>💻 Know more about me [Portfilio](https://alih6051.github.io/)](https://shiva167.github.io/MyPortfoliowebsite.github.io/)<br>
+<br>💻 All of my projects are available at My [Github Repositories](https://github.com/alih6051?tab=repositories](https://github.com/shiva167/)<br>
+<br>💬 Ask me about Core Java with OOps, Data Structure, HTML, CSS, React, Node.js , Express.js , JavaScript<br>
+<br>📫 How to reach me agrawalshiva871@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📱 Connect with me</h2>
 <br />
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/mohd-hasan"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href="mailto: alih6051@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://github.com/alih6051"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/shiva-agrawal/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="mailto: agrawalshiva871@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/shiva167/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-<br />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">🚀 Languages and Tools:</h2>
+<br/>
+
+<div align="center">
+ 
+ <div align="center"><h3 align="center">Coding Languages:</h3>
+<img src="https://img.shields.io/badge/java-%83E34F26.svg?style=for-the-badge&logo=JAVA&logoColor=blue" align="center" alt="java">
+<img src="https://img.shields.io/badge/C-%83EAAF26.svg?style=for-the-badge&logo=C&logoColor=blue" align="center" alt="c">
+<img src="https://img.shields.io/badge/C++-%22EA4F26.svg?style=for-the-badge&logo=C++&logoColor=blue" align="center" alt="c++">
+
+ </div>
 <br/>
 <div align="center">
  
@@ -92,14 +97,14 @@
 <br/>
 <br/>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alih6051&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shiva167&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/alih6051/github-readme-stats"><img alt="alih6051 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alih6051&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shiva167/github-readme-stats"><img alt="alih6051 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva167&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
    
 
