@@ -15,7 +15,8 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3 align="center">A Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
+<h3 align="center">A Java Developer with strong expertise in Core Java, Spring Boot, Executor Services, and Data Structures, and also a Full Stack Web Developer skilled in the MERN stack, with a focus on writing clean, efficient, and scalable code.
+.</h3>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -24,12 +25,12 @@
 
 # 💫 About Me:
 
-🔭 I’m currently preparing for placements!.<br>
-<br>🌱 I’m currently learning MERN Stack.<br>
+🔭 I’m currently Looking for new Job role!.<br>
+<br>🌱 I am currently learning Spring Boot and exploring Microservices architecture, including tools like Kafka.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1Peef7PWULkrLVzB4pxHsymHso7gx-8bm/view?usp=drive_link)<br>
 <br>💻 Know more about me [Portfilio](https://shiva167.github.io/MyPortfoliowebsite.github.io/)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/shiva167/)<br>
-<br>💬 Ask me about Core Java with Oops, Data Structure, HTML, CSS, React, Node.js , Express.js , JavaScript<br>
+<br>💬 Ask me about Core Java with Oops, Data Structure,Spring boot and microservices architecture, HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me agrawalshiva871@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -73,12 +74,20 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
   
 </div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
- </div>
+ <br/>```html
+<div align="center">
+  <h3 align="center">Backend</h3> 
+
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" align="center" alt="java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" align="center" alt="springboot"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=architect&logoColor=white" align="center" alt="microservices"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+
+</div>
+```
+
   
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
