@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
   
 </div>
- <br/>```html
+ <br/>
 <div align="center">
   <h3 align="center">Backend</h3> 
 
@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
 
 </div>
-```
+
 
   
   <div align="center"><h3 align="center">Tools</h3> 
